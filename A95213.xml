@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True relation of the great thunder, lightning, rain, great vvind, and prodigious hail, that happened at Alvanley in the parish of Frodham in Cheshire, on Sunday the 19th day of June, 1687 as it was sent to a merchant in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95213</idno>
+            <idno type="STC">Wing T2961</idno>
+            <idno type="STC">ESTC R43803</idno>
+            <idno type="EEBO-CITATION">42475263</idno>
+            <idno type="OCLC">ocm 42475263</idno>
+            <idno type="VID">151423</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151423)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2258:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True relation of the great thunder, lightning, rain, great vvind, and prodigious hail, that happened at Alvanley in the parish of Frodham in Cheshire, on Sunday the 19th day of June, 1687 as it was sent to a merchant in London.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet, for G.P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"This may be Printed, R.P. July the 28th 1687."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Storms --  England --  Cheshire --  Early works to 1800.</term>
+               <term>Cheshire (England : County) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters">
+            <pb n="1" facs="tcp:151423:1" rendition="simple:additions"/>
+            <head>A TRUE RELATION OF THE GREAT <hi>Thunder, Lightning, Rain,</hi> GREAT VVIND, AND Prodigious HAIL, That Happened at ALVANLEY In the Pariſh of <hi>Frodſham</hi> in CHESHIRE. On Sunday the 19th day of <hi>June.</hi> 1687. As it was ſent to a Merchant in <hi>London.</hi>
+            </head>
+            <div type="letter">
+               <opener>
+                  <dateline>
+                     <hi>Alvandley</hi> 
+                     <date>this 18th of <hi>July</hi> 1687.</date>
+                  </dateline>
+                  <salute>Loving Couſin,</salute>
+               </opener>
+               <p>I <hi>Have not received one Line from thee, ſince thy liſt going to</hi> London: <hi>But Couſin</hi> Elizabeth Birdſey <hi>told me of thy dangerous Sickneſs, for which I am much troubled, but ſhall be glad to hear of thy perfect Recovery to Health again. God grant that all Afflictions we meet with in this vale of Tears or Tranſitory Life, may be a means to draw us nearer himſelf, who only can help, ſupport, and ſtrengthen our Infirmities. I hope theſe Lines will find thee better Recovered.</hi>
+               </p>
+               <pb n="2" facs="tcp:151423:2"/>
+               <p>
+                  <hi>I was deſired by our Neighbour</hi> Jeremiah Leech, <hi>(whoſe kind Love is herein re<g ref="char:EOLhyphen"/>membred to thee) to ſend thee a Copy of the Relation of that remarkable Accident, which by the diſpoſing hand of God, happened with us at</hi> Alvandley <hi>the</hi> 19th <hi>of</hi> June <hi>laſt paſt, to the great damage of our Corn, Houſes, Cattle, Meadowing and Fruits, which was occaſioned by the Wind and Prodigious Hail, which may appear by the following Relation, which be the ſaid</hi> J. Leech <hi>is very deſirous may be com<g ref="char:EOLhyphen"/>mitted to the Preſs, that all might have a true accompt of it, and deſired me, to re<g ref="char:EOLhyphen"/>queſt thee to do it, that for time to come it may be known and kept in mind how the Lord hath dealt with us in his Judgments in this kind, which were wonderfully mixt with Mercy to us, in preſerving our Lives, when much Cattel hardly eſcaped, being bruiſed, and hurt, and cut, till blood ran down them, as appears by the Rela<g ref="char:EOLhyphen"/>tion following, which is a true Account how it was; I being an Eye-witneſs, and had a ſhare of it. So with mine, and Brothers kind Love to thee, wiſhing thy good health, and to hear from thee, I reſt</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>Thy aſſured Loving Kinſman,</hi> Nathaniel Buſhell.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>The Copy as it was Directed to Sir <hi>John Arderne,</hi> take as followeth.</head>
+               <opener>
+                  <salute>Right Worſhipful,</salute>
+               </opener>
+               <p>WE your diſtreſſed Tenants in <hi>Alvandley,</hi> do Certifie unto you, how it hath pleaſed Almighty God to ſhew his great Power, in that terrible ſtorm of Thunder, Lightning, Rain, great Wind and Hail, that lighted on us, your Worſhips diſtreſſed Tennants in <hi>Alvandley</hi> the 19th of <hi>June</hi> 1687. But we are not able to expreſs the terribleneſs of it in full, being too apt to forget, like <hi>Pharoah</hi> of Old; but ſeeing it hath left ſuch memorable Monu<g ref="char:EOLhyphen"/>ments of the deſtructiveneſs of it, all the beholders have ſtood amazed at it, fetching Tears from the Eyes of the Tender-hearted, many having come far to ſee it; and ſaid, if it had been atteſted to them upon Oath how deſtructive it was, they could not have believed it had been ſo, till they came to ſee it.</p>
+               <p>May it pleaſe you, That after great Lightning, Thunder and Rain, there aroſe a great terrible Wind, which brought with it the great Hail in abun<g ref="char:EOLhyphen"/>dance, which at the firſt daſh broke all our Glaſs Windows that were on the South-Weſt ſides of our Houſes, the Wind at that inſtant coming from thence upon us; and iſſued a flaſhing Fire, that accompanied with great Thunder, the Hail came with great vioience, and had ſharp Ends and Edges like broken Ice, Cutting, Smiting, and driving down all tops of Trees and young Plants, and cut the Backs of our Kine, till Blood iſſued therefrom, and bruiſed the Elders and Paps, and wonderfully affrighted them, that they ran as if they had been Mad, leaping out of their Paſtures, ſome into Pits and were almoſt drowned; ſome people that were out of Doors were ill beaten and bruiſed ere they could get to ſhelter themſelves, that to our knowledge their fleſh was as black as pots, and ſcarce able to go. Although praiſed be God, he in his infinite Mercy ſpa<g ref="char:EOLhyphen"/>red both Man and Beaſt alive, which is no ſmall wonder, for it killed flying Fowl, both Crows and Pyes, and other Fowl. Several of our Buildings were Shattered and Battered by it; and the Roofs of both Thatch and Slate torn and uncovered: ſome Walls both Timber and Stone driven down; the Windmill was blown and driven down; nay, which is moſt remarkable, it broke ſtrong ſound Trees of a great ſubſtance off in the middle, and blew down very many
+<pb n="3" facs="tcp:151423:2"/>fruit Trees, and deſtroyed all the Fruits, the which were abundance before the Storm was; and did ſo cut and bruiſe all ſorts of Fruit Trees and other Trees, that we think they will hardly get recovery, the Hail-ſtones being many of them ſharp, that they ſlit the Bark of Trees as if done with a Knife: if any Apple be left, it ſeems as if it were cut with a Knife. All our Gardens, Plants, and Flowers are deſtroyed but what were within Ground; our Hedges and Quickſets are pill'd, ſo as the Leaf and Bark is not left.</p>
+               <p>But we may ſay this is little in Compariſon of the loſs of our Corn in every ſort of Grain, which was Smitten very terrible, <hi>viz.</hi> Wheat, Rye, Barly, Oates, Peaſe, Beans, <hi>French</hi>-Wheat, with our Flax and Hemp; in a Word, all was by the ſaid Storm of Hail deſtroyed, ſo that ſome have Plowed it up where their Corn was, and Sowed it again; ſome have Plowed it for Summer work, and ſome have turned their Cattle into their Corn Fields, and ſome others let it lie, to ſee what the Lord will be pleaſed to do with it.</p>
+               <p>The Tythe-Corn of the Town, that uſually hath been Let from 25 to 26 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and ſometimes at 30 <abbr>
+                     <hi>l.</hi>
+                  </abbr> the Morning after the Storm, none would have given 1 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for it: The loſs of our Meadowing is not a whit behind the reſt: To the great Damage of the Town; moſt of the Town Folk being Daries; the Graſs was Beaten and Battered as if pounded in a Mortar, ſo that there is little left, and what between, the Sap of Trees, Corn and Graſs. Our Pits and Ditches are Dyed like Tanners Bark-Pits. We heard that our Neighbouring Towns<g ref="char:EOLhyphen"/>men were ſo ſorry for us, that one ſaid he would (if the reſt would do like<g ref="char:EOLhyphen"/>wiſe) give us a Load of Hay for relief of our Cattle.</p>
+               <p>The Hail and Wind continued about half an hour; the Hail-ſtones were of divers ſhapes, ſome with ſharp Ends and Edges, and like your Smiths Cynders, ſome ſay there were of 8 or 9 Inches about; but we were ſo affrighted that Night we did not regard to meaſure them, but next day there was meaſured that were 5 Inches about, and on the <hi>Friday</hi> following which was 5 days after, there was found in old Thatch, Hail that was 5 Inches about, we cannot ex<g ref="char:EOLhyphen"/>preſs our loſs, ſuſtained by the ſaid Wind and Hail; there was ſuch abundance of it, and it beat mightily into our Houſes, that our Old Corn, Cheeſe, Meat, Bedding, and other houſhold Goods received great Damage by it, all the ſub<g ref="char:EOLhyphen"/>ſtance of the Storm lighted on our Village, as it afterwards appeared, for that way the Storm drove it paſſed by the Neighbouring Towns, the Hill being be<g ref="char:EOLhyphen"/>twixt them and us, ſo they ſuſtained very little loſs by it.</p>
+               <p>Truly ſince the great Hail in the Land of <hi>Egypt,</hi> we do not hear that the like hath been ſeen for Thunder, Hail, and Fire mingled with it, flaſhing upon the Ground, as it appeared to many that beheld it, and came with ſuch a hei<g ref="char:EOLhyphen"/>deous Noiſe, that cannot be expreſs'd, betwixt the Hail and Wind, its violence was great, being in ſuch abundance, that it lay in ſome places three quarters of a Yard deep, and beat up the Ground, and drove it on heaps in ſome places, and after it, followed a great Damp or Miſt, with a very offenſive ſmell; but we deſire to give Glory and Thanks to Almighty God, that ſpared our Lives and the Lives of our Cattle, when it had been ſo eaſie a thing to deſtroy us, when ſtronger things were deſtroyed, but that he pleaſed to give a Commiſſion to its ſtrong Force, and no further to proceed.</p>
+               <p>And we humbly pray God, that we who have ſeen and felt his mighty Power, and all others, who only hear of this Relation, may make a right improve<g ref="char:EOLhyphen"/>men of it, to the Glory of Almighty God and our own ſouls good.</p>
+               <p>And we whoſe Names are hereunto ſubſcribed do humbly conclude, that all our loſſes in the afore-mentioned particulars, within the Precincts of <hi>Alvanley,</hi> will amount unto the Sum of ſeveral 1000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and upwards, unleſs God in his infinite Mercy find out a way for our Relief; but it pittys our hearts moſt of all, for our poor Widows and Fatherleſs, whoſe whole years profits are deſtroyed.</p>
+               <pb n="4" facs="tcp:151423:3"/>
+               <closer>
+                  <signed>We whoſe Names are hereunto ſubſcribed, ſhall be ready to atteſt what is here Written for certain Truths and no feigned things.
+<list>
+                        <item>
+                           <hi>John Turner,</hi> Miniſter at <hi>Alvandley</hi>
+                        </item>
+                        <item>
+                           <hi>John Clarke,</hi> School-maſter</item>
+                        <item>
+                           <hi>Richard Walker,</hi> Clerk at the Chappel</item>
+                        <item>
+                           <hi>Samuel Gerrard</hi>
+                        </item>
+                        <item>
+                           <hi>Jeremiah Leech</hi>
+                        </item>
+                        <item>
+                           <hi>George Whitley</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Simcock</hi>
+                        </item>
+                        <item>
+                           <hi>John Baſſnet.</hi>
+                        </item>
+                        <item>
+                           <hi>John Aſhbrooke</hi>
+                        </item>
+                        <item>
+                           <hi>Samuel Leech</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Simcock</hi>
+                        </item>
+                        <item>
+                           <hi>John Hayes</hi>
+                        </item>
+                     </list>
+                  </signed>
+
+
+
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>John Buſhell,</hi> of the Pariſh of <hi>Allhallows the Wall, London,</hi> knows very well the perſons who ſent this Letter, as likewiſe ſome of the perſons above-named, and do believe this Relation to be very true, having received a Letter from another perſon to the ſame Effect.</p>
+                  <closer>
+                     <signed>John Buſhell.</signed>
+                  </closer>
+               </postscript>
+               <postscript>
+                  <p>I <hi>William Watts</hi> of the ſaid Pariſh of <hi>Allhallows in the Wall,</hi> do know very well, the perſon that ſent the above-written Letter, and doth really believe the above-written Relation to be true.</p>
+                  <closer>
+                     <signed>William Watts</signed>
+                  </closer>
+               </postscript>
+               <postscript>
+                  <p>I <hi>William Johnſon</hi> of <hi>London,</hi> Notary Publique, do Certifie that I do know, not only the ſaid perſon that ſent the ſaid Letter, but alſo ſeveral other of the per<g ref="char:EOLhyphen"/>ſons Inhabitants there, and that I believe the above Relation to be aſſuredly true, and no falſe thing, I having ſeen a Letter ſometime ſince to that Effect.</p>
+                  <closer>
+                     <signed>William Johnſon.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="license">
+               <p>This may be Printed,</p>
+               <closer>
+                  <signed>R P.</signed>
+                  <dateline>
+                     <date>July <hi>the</hi> 28th 1687.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>D. Mallet,</hi> for G.P. 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
